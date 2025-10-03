@@ -79,7 +79,7 @@ To install dependencies:
 
 pip install -r requirements.txt
 
-Usage / How to Run
+## Usage / How to Run
 
 1. Clone the repository:
 
