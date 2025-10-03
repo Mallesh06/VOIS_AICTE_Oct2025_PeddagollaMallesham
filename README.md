@@ -74,3 +74,42 @@ You will need:
   plotly  
   scikit-learn  
   folium / geopandas (if mapping)
+
+To install dependencies:
+
+pip install -r requirements.txt
+
+Usage / How to Run
+
+1. Clone the repository:
+
+git clone https://github.com/Mallesh06/VOIS_AICTE_Oct2025_PeddagollaMallesham.git
+cd VOIS_AICTE_Oct2025_PeddagollaMallesham
+
+
+2. (Optional) Create and activate a virtual environment.
+
+
+3. Install dependencies as above.
+
+
+4. Open the notebook:
+
+jupyter notebook Airbnb_Open_Data.ipynb
+
+
+5. Follow the notebook cell by cell:
+
+Load data
+
+Clean / preprocess
+
+Run EDA and visualizations
+
+(If applicable) Run modeling cells
+
+
+
+6. Export results / charts / report.
+
+
