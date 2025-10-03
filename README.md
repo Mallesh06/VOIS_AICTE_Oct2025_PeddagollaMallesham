@@ -131,7 +131,7 @@ Include a few sample visualizations (if possible) or refer to output charts in t
 
 Summarize what your project achieved, what insights are valuable, and how your results align with your original objectives.
 
-##Future Work
+## Future Work
 
 Incorporate time-series / seasonal trends
 
@@ -144,7 +144,7 @@ Build a dashboard / interactive web app
 Extend to other cities or combine multiple Airbnb datasets
 
 
-##Repository Structure
+## Repository Structure
 
 VOIS_AICTE_Oct2025_PeddagollaMallesham/
 │
@@ -158,7 +158,7 @@ VOIS_AICTE_Oct2025_PeddagollaMallesham/
 
 Adjust as needed if your structure is different.
 
-##Credits / Acknowledgments
+## Credits / Acknowledgments
 
 Thank AICTE and VOIS program for the internship opportunity
 
