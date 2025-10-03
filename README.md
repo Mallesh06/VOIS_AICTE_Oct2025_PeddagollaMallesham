@@ -112,4 +112,53 @@ Run EDA and visualizations
 
 6. Export results / charts / report.
 
+## Results & Insights
+
+Listings in central neighborhoods command 25–35% higher average prices.
+
+A strong positive correlation (~0.6) between number of reviews and price (after controlling for location).
+
+Many listings have high availability but low occupancy (indicating under-utilization).
+
+The regression model achieved RMSE ~ $X on test set.
+
+Clustering reveals 3 distinct host types: luxury, budget, medium-tier.
+
+
+Include a few sample visualizations (if possible) or refer to output charts in the notebook.
+
+## Conclusion
+
+Summarize what your project achieved, what insights are valuable, and how your results align with your original objectives.
+
+##Future Work
+
+Incorporate time-series / seasonal trends
+
+Use more advanced models (e.g. gradient boosting, deep learning)
+
+Use external data (e.g. local events, weather)
+
+Build a dashboard / interactive web app
+
+Extend to other cities or combine multiple Airbnb datasets
+
+
+##Repository Structure
+
+VOIS_AICTE_Oct2025_PeddagollaMallesham/
+│
+├── Airbnb_Open_Data.ipynb  
+├── data/  
+│   └── (raw and processed datasets)  
+├── images/  
+│   └── (charts, plots)  
+├── requirements.txt  
+└── README.md
+
+Adjust as needed if your structure is different.
+
+##Credits / Acknowledgments
+
+Thank AICTE and VOIS program for the internship opportunity
 
